@@ -8,6 +8,9 @@ Pipelines and relevant scripts for constructing the phylogenetic tree among the 
 
 # Citation
 
+Li, H., Yang, X., Shang, Y. et al. Vegetable biology and breeding in the genomics era. Sci. China Life Sci. 66, 226–250 (2023). https://doi.org/10.1007/s11427-022-2248-6
+
+
 # Contacts
 
 Hongbo Li, lihongbo_solab@163.com
